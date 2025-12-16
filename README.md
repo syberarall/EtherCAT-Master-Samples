@@ -21,7 +21,7 @@ The examples are designed for the following environments:
 | :--- | :--- |
 | **Operating Systems** | Windows 7, 8, 10, 11 |
 | **Development Platforms** | Visual C++ (from version 2010), CVI LabWindows, Borland C++Builder |
-| **Required** | Installed Sybera EtherCAT Master Library (www.sybera.com), compatible Ethernet hardware, EtherCAT Network Information (ENI/XML) file. |
+| **Required** | Installed Sybera EtherCAT Master Library (www.sybera.com), compatible Ethernet hardware, EtherCAT Slave Information (ESI) file. |
 
 ### 3. Product Features (Master Functions)
 
