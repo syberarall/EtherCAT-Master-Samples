@@ -57,3 +57,10 @@ The following files are central to C++ programming with the library:
 * **`ECAT64SDODEF.H` / `ECAT64DCDEF.H`**: Specific definitions for CoE (SDO) and Distributed Clock.
 
 ---
+
+### Further Information on the EtherCAT Master Library
+
+Detailed descriptions of the functions, integrated tools (like the PDO Configurator), and technology (like Distributed Clock Management) can be found on the official Sybera product page:
+
+Sybera EtherCAT Master for Windows
+[Sybera EtherCAT Master für Windows](https://www.sybera.com/english/ethercat-master.htm)
