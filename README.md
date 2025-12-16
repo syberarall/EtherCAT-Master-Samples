@@ -57,4 +57,3 @@ The following files are central to C++ programming with the library:
 * **`ECAT64SDODEF.H` / `ECAT64DCDEF.H`**: Specific definitions for CoE (SDO) and Distributed Clock.
 
 ---
-Would you like me to elaborate on a specific example for either the LowLevel or HighLevel Interface (e.g., for PDO mapping)?
